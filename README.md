@@ -1,4 +1,5 @@
-Hello, Welcome 👋
+# Hello there; welcome 👋🏾
+[![Linkedin Badge](https://img.shields.io/badge/-SolomonSadat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/solomon-sadat-0852681b4/)](https://www.linkedin.com/in/solomon-sadat-0852681b4/)
 
 I'm a Data analyst, Empowering Growth Through Business Development, Support Excellence, Digital Marketing Mastery, Creative Director, and Design Innovation, I'm always learning something new because I believe that knowledge is power.
 
