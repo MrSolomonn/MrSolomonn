@@ -1,3 +1,4 @@
+https://www.linkedin.com/in/solomon-sadat/
 I'm a Data analyst, Empowering Growth Through Business Development, Support Excellence, Digital Marketing Mastery, Creative Director, and Design Innovation, I'm always learning something new because I believe that knowledge is power.
 
 - 🌱 I’m currently learning more about Data Analytics
