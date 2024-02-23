@@ -1,8 +1,5 @@
 # Hello there; welcome 👋🏾
-<a href="https://www.linkedin.com/in/solomon-sadat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Badge"></a> <a href="https://hashnode.com/@MrSolomon" target="_blank"><img src="https://img.shields.io/badge/Hashnode-Follow-orange?style=social&logo=hashnode" alt="Hashnode Badge"></a>
-
-
-This code will display a Hashnode badge with an orange color scheme and the Hashnode logo. When clicked, it will open your Hashnode profile in a new tab.
+<a href="https://www.linkedin.com/in/solomon-sadat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Badge"></a> <a href="https://hashnode.com/@MrSolomon" target="_blank"><img src="https://img.shields.io/badge/Hashnode-Follow-blue?style=social&logo=hashnode" alt="Hashnode Badge"></a>
 
 I'm a Data analyst, Empowering Growth Through Business Development, Support Excellence, Digital Marketing Mastery, Creative Director, and Design Innovation, I'm always learning something new because I believe that knowledge is power.
 
