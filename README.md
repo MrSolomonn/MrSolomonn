@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MrSolomonn
-- 👀 I’m interested in Business Development
-- 🌱 I’m currently learning Data analytics
-- 💞️ I’m looking to collaborate on data analytics
+I'm a Data analyst, Empowering Growth Through Business Development, Support Excellence, Digital Marketing Mastery, Creative Director, and Design Innovation, I'm always learning something new because I believe that knowledge is power.
+
+- 🌱 I’m currently learning more about Data Analytics
+- 💞️ I’m looking to collaborate on data analytics projects, Internship opportunities and entry-level jobs
 - 📫 How to reach me: solomonsadat@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love Animals and Football
